@@ -137,7 +137,7 @@ The dataset includes:
 
 ## Acknowledgments
 
-This project was inspired by the groundbreaking research conducted by Kyoseung Sim et al., titled **"Continuous cuffless monitoring of arterial blood pressure via graphene bioimpedance tattoos"**, published in *Nature Nanotechnology* (2022). The study introduced the potential of graphene electronic tattoos (GETs) as a platform for non-invasive and continuous health monitoring, which provided the foundation for our exploration of bioimpedance-based blood pressure monitoring.
+This project was inspired by the groundbreaking research conducted by Dmitry Kireev et al., titled **"Continuous cuffless monitoring of arterial blood pressure via graphene bioimpedance tattoos"**, published in *Nature Nanotechnology* (2022). The study introduced the potential of graphene electronic tattoos (GETs) as a platform for non-invasive and continuous health monitoring, which provided the foundation for our exploration of bioimpedance-based blood pressure monitoring.
 
 You can access the original research paper here: [Continuous cuffless monitoring of arterial blood pressure via graphene bioimpedance tattoos](https://www.nature.com/articles/s41565-022-01145-w).
 
