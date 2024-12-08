@@ -141,6 +141,8 @@ This project was inspired by the groundbreaking research conducted by Kyoseung S
 
 You can access the original research paper here: [Continuous cuffless monitoring of arterial blood pressure via graphene bioimpedance tattoos](https://www.nature.com/articles/s41565-022-01145-w).
 
+The dataset used in this project was obtained from [PhysioNet](https://physionet.org/), specifically the **"Continuous Cuffless Monitoring of Arterial Blood Pressure via Graphene Bioimpedance Tattoos"**, version 1.0.0. This dataset includes synchronized bioimpedance, photoplethysmography, and blood pressure recordings, which were instrumental in training and validating our machine learning models.  
+You can access the dataset here: [Graphene Bioimpedance Arterial Blood Pressure Dataset](https://physionet.org/content/bp-graphene-bioimpedance/1.0.0/).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
